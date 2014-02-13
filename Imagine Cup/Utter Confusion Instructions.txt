@@ -1,0 +1,14 @@
+To install Utter Confusion simply run the installer and optionally select an installation folder.
+An icon for the game will be added to your desktop and start menu.
+
+Once the game has been installed and is running - use the mouse to operate the menus and press Escape to either go up one menu level or quit.
+A back button will also be presented.
+
+The controls in-game are WASD and the left mouse button. The arrow keys are mapped to WASD for the sake of people using a left handed mouse.
+The objective of the game is to kill the enemies and collect as much confetti as possible for a high score.
+
+Custom game modes can be created using the in-game editor, either select NEW to add a new game mode or edit an already existing one.
+Editing a game mode allows you to set a variety of variables to any stupidly extreme value you want.
+
+This prototype of the game comes with one sample custom game mode and one sample challenge - in a later iteration of the game challenges will be used
+to unlock variables to edit for custom game modes. There will also be an options menu with mute and fullscreen controls.

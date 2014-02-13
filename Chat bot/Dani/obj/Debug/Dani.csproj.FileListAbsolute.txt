@@ -1,0 +1,12 @@
+C:\Users\Docopoper\Desktop\Assignments\Year 2\OOP\Dani\Dani\bin\Debug\Dani.exe
+C:\Users\Docopoper\Desktop\Assignments\Year 2\OOP\Dani\Dani\bin\Debug\Dani.pdb
+C:\Users\Docopoper\Desktop\Assignments\Year 2\OOP\Dani\Dani\obj\Debug\Dani.csprojResolveAssemblyReference.cache
+C:\Users\Docopoper\Desktop\Assignments\Year 2\OOP\Dani\Dani\obj\Debug\Dani.exe
+C:\Users\Docopoper\Desktop\Assignments\Year 2\OOP\Dani\Dani\obj\Debug\Dani.pdb
+C:\Users\Docopoper\Desktop\Assignments\Year 2\OOP\Dani2\Dani\obj\Debug\Dani.exe
+C:\Users\Docopoper\Desktop\Assignments\Year 2\OOP\Dani2\Dani\obj\Debug\Dani.pdb
+C:\Users\Docopoper\Desktop\Assignments\Year 2\OOP\Dani2\Dani\obj\Debug\Dani.csprojResolveAssemblyReference.cache
+C:\Users\Docopoper\Desktop\Assignments\Year 2\OOP\Dani2\Dani\bin\Debug\Dani.exe
+C:\Users\Docopoper\Desktop\Assignments\Year 2\OOP\Dani2\Dani\bin\Debug\Dani.pdb
+C:\Users\Docopoper\Desktop\Job\Portfolio\Chat bot\Dani\obj\Debug\Dani.exe
+C:\Users\Docopoper\Desktop\Job\Portfolio\Chat bot\Dani\obj\Debug\Dani.pdb

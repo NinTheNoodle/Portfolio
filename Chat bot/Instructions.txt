@@ -1,0 +1,14 @@
+When running the chat bot program:
+
+First type
+/create dani mybot english
+to create a chat bot to talk to
+
+Then type
+/read mybot english shakeshort
+to read a short amount of shakespare to the chat bot (from a file called shakeshort)
+
+Then type
+/talk mybot
+
+Then say something to the bot and it shall respond with the vocabulary it knows.
